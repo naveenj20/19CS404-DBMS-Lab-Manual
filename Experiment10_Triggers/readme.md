@@ -62,7 +62,8 @@ VALUES (101, 'Alice', 'HR', 50000);
 SELECT * FROM employee_log;
 
 ```
-![image](https://github.com/user-attachments/assets/28e3f247-603c-4490-b582-d4e1d5b6eb6c)
+<img width="947" height="185" alt="image" src="https://github.com/user-attachments/assets/26dc6fb3-33bd-462c-ac7d-7d14e94135e1" />
+
 
 
 
@@ -135,7 +136,10 @@ SELECT product_id, product_name, last_modified
 FROM products
 WHERE product_id = 101;
 ```
-![image](https://github.com/user-attachments/assets/66f8a212-7965-459f-ace8-d540a9cb99b1)
+
+
+<img width="946" height="433" alt="image" src="https://github.com/user-attachments/assets/34581bd1-7c51-4eee-829b-130416f142ff" />
+
 
 
 ## Question 4. Write a trigger to keep track of the number of updates made to a table.
